@@ -1,0 +1,7 @@
+{
+    "server": {
+        "appname": "go-micro-demo",
+        "serverPort": 8100,
+        "runmod": "dev"
+    }
+}

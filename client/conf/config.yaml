@@ -1,0 +1,11 @@
+#ServerName
+#ServerPort
+info:
+  server:
+    name:
+      go-micro-client
+    address:
+      127.0.0.1:8101
+
+  consul:
+    address: 192.168.143.146:8500
